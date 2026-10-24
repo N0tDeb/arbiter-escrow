@@ -8,6 +8,10 @@ Arbiter is a local Ethereum escrow dApp built around a Solidity state machine fo
 
 The repository is intentionally scoped as a **single-escrow, local-development project**. It is designed to make the contract lifecycle, security decisions, tests, and frontend integration easy to inspect and demonstrate. There is no public-network deployment requirement.
 
+## Application Preview
+
+![Arbiter dispute resolution dashboard](docs/arbiter-dispute.jpg)
+
 ## How the escrow works
 
 The contract has six states:
