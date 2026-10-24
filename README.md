@@ -88,6 +88,7 @@ arbiter-escrow/
 │   └── test/
 │       └── EscrowReceivers.sol
 ├── docs/
+│   ├── arbiter-dispute.jpg
 │   └── state-machine.png
 ├── scripts/
 │   ├── deploy.ts
