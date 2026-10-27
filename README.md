@@ -4,7 +4,7 @@
 
 Arbiter is a local Ethereum escrow dApp built around a Solidity state machine for a buyer, seller, and neutral arbitrator. It supports deposits, bilateral release approval, buyer-raised disputes, arbitration voting, deadline extensions, timeout recovery, and pull-payment withdrawals.
 
-> **Project context:** Arbiter originated as a Semester-5 Smart Contracts course project and was later refactored for clearer structure, documentation, reproducibility, and portfolio presentation while preserving the original escrow scope.
+> **Project context:** Arbiter originated as a Semester-6 Smart Contracts course project and was later refactored for clearer structure, documentation, reproducibility, and portfolio presentation while preserving the original escrow scope.
 
 The repository is intentionally scoped as a **single-escrow, local-development project**. It is designed to make the contract lifecycle, security decisions, tests, and frontend integration easy to inspect and demonstrate. There is no public-network deployment requirement.
 
